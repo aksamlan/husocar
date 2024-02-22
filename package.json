@@ -1,0 +1,20 @@
+{
+  "name": "carhuso",
+  "version": "0.2.0",
+  "author": {
+    "name": "Kristján Ingi Mikaelsson",
+    "email": "kristjanmik@gmail.com"
+  },
+  "contributors": [
+    "Benedikt D Valdez <benedikt@kolibri.is>"
+  ],
+  "description": "A library to look up license plates of cars",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristjanmik/car.git"
+  },
+  "dependencies": {
+    "lodash": "^3.3.0",
+    "x-ray": "^1.0.3"
+  }
+}
